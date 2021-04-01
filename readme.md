@@ -37,7 +37,13 @@ Use the following methods of DOM nodes to update the content of the DOM:
 * `outerText`
 * `textContent`
 
-## 4. Working with the `classList` API
+## 4 Changing Style with JS
+ 
+ - Change the background color to a new color using our JS methods
+ - Change the color and font style of an HTML element using JS
+ - Change the display type of a container to Flex and its Flex Direction
+
+## 5. Working with the `classList` API
 
 The following are the three methods we can use to work with classes on a DOM
 node:
@@ -46,7 +52,7 @@ node:
 1. `.classList.remove()`
 1. `.classList.toggle()`
 
-## 5. Working with `data-*` Attributes
+## 6. Working with `data-*` Attributes
 
 Use the `data-*` attribute to add data to a DOM node. You can get that data in
 JavaScript with a node's `dataset` property.
