@@ -32,10 +32,9 @@ prompts.
 Use the following methods of DOM nodes to update the content of the DOM:
 
 * `innerHTML`
-* `outerHTML`
+
 * `innerText`
-* `outerText`
-* `textContent`
+
 
 ## 4 Changing Style with JS
  
